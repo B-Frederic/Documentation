@@ -50,6 +50,8 @@ Exemple du terminal que tu devras avoir:
 
 8 - Fait l'exercice (à fond, car tu es trop balèze)
 
+## Envoyer le travail fait
+
 9 - Ouvre le terminal du VSC et entre la commande **(en respectant les espaces)**
 > git add .
 
@@ -68,6 +70,6 @@ Exemple pour Commentaire du commit: "add html and css", "fix: bug html" etc...
 
 >![Voir l'image](./assets/img/Git%20push.png)
 
-12 - Repos
+12 - Repos bien mérité
 
 >![Voir l'image](./assets/img/Repos.jpg)

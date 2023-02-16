@@ -11,7 +11,7 @@
 
 3 - Aller dans l'onglet SSH et copie le lien
 
->![Voir l'image](./assets/img/Lien%20SSH.png)
+>![Voir l'image](./assets/img/Lien%20SSH%20priv%C3%A9.png)
 
 4 - Aller dans le dossier où tu veux créer le clone du répertoire. Exemple du chemin dans terminal :
 

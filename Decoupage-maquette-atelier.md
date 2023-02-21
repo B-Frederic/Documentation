@@ -15,3 +15,4 @@ Ceci est un simple exemple, on peut le faire de différentes façons, avec des b
 
 > Comme on le voit dans la découpe, il y a également dans cette `article` jaune, une autre `div` marron, qui elle contient : `img` `pseudo` `date`. On peut anticiper en se disant qu'on va utiliser un `display: flex;` dessus pour les mettres en lignes et gérer son comportement.
 
+Vous pouvez donc découper comme vous voulez votre maquette, pensez à bien la couper en "morceau" pour éviter de vous compliquer la vie et pour obtenir une meilleure gestion des propriétés dessus.
